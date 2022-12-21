@@ -1,0 +1,35 @@
+[
+   {
+    "name": "theme_info",
+    "theme_name": "ShopifyTestTheme",
+    "theme_autor": "louisTam", 
+    "theme_version": "0.1.0",
+    "theme_documentation_url": "https://testurl.com/documentation",
+    "theme_support_url": "https://testurl.com/support"
+   },
+
+   {
+    "name": "Color",
+    "settings": [
+      {
+        "type": "color",
+        "id": "body_text",
+        "label": "Body text",
+        "default": "#000000"
+      }
+    ]
+   },
+
+   {
+    "name": "Typography",
+    "settings": [
+      {
+        "type": "font_picker",
+        "id": "heading_font",
+        "label": "Heading font",
+        "default": "helvetica_n4"
+      } 
+    ]
+   } 
+
+]
